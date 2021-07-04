@@ -212,3 +212,6 @@ Translations into versions for other languages are welcome 🧐! Please read the
 ## 📜 License
 
 [MIT](https://opensource.org/licenses/MIT) Copyright (c) 2018-present Dr_rOot
+
+
+
